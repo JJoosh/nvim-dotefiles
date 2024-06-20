@@ -22,7 +22,7 @@ mkdir -p ~/.config/nvim
 #### Step 4: Create the init.vim file
 Create the init.vim file in the Neovim configuration directory:
 ``` bash
-nano ~/.config/nvim/init.vim
+nvim ~/.config/nvim/init.vim
 ```
 * NOTE: Copy only that
 
@@ -145,7 +145,7 @@ and same as before On your nvim do this:
 
 #### Step 5: Create the `coc-settings.json` file
 ```bash
-nano ~/.config/nvim/coc-settings.json
+nvim ~/.config/nvim/coc-settings.json
 ```
 * NOTE: Copy and paste the coc-settings.json file into your own file
 
