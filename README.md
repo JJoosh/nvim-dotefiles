@@ -4,6 +4,12 @@ This repository contains the files needed by NVIM to use and customize NVIM.
 ### NVIM Version
 * nvim 0.10.0
 
+### Update your system
+
+```bash
+sudo apt update && sudo apt upgrade -y
+```
+
 ## How to install
 
 ### Auto
