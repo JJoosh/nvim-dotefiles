@@ -1,7 +1,5 @@
 #!/bin/bash
 
-
-
 # Función para verificar la versión de Neovim
 check_nvim_version() {
   REQUIRED_VERSION="0.10.0"
